@@ -32,5 +32,5 @@
       * [\(一\) 应用分层](dai-ma-gui-fan/mysql-gui-yue/gong-cheng-gui-yue/yi-ying-yong-fen-ceng.md)
       * [\(二\) 二方库规约](dai-ma-gui-fan/mysql-gui-yue/gong-cheng-gui-yue/er-er-fang-ku-gui-yue.md)
       * [\(三\) 服务器规约](dai-ma-gui-fan/mysql-gui-yue/gong-cheng-gui-yue/san-fu-wu-qi-gui-yue.md)
-* [安全规约](an-quan-gui-yue.md)
+    * [安全规约](dai-ma-gui-fan/mysql-gui-yue/an-quan-gui-yue.md)
 
