@@ -1,2 +1,2 @@
-# 开发手册
+# Initial page
 
